@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.a9ade628.css",
+    "main.js": "/portfolio/static/js/main.b2820475.js",
+    "static/media/fire.gif": "/portfolio/static/media/fire.1f683f26f37bb352f7b7.gif",
+    "static/media/ecom app.PNG": "/portfolio/static/media/ecom app.1b539532a3215d2044c4.PNG",
+    "static/media/resume.pdf": "/portfolio/static/media/resume.d748125aee10d0524670.pdf",
+    "static/media/online medicine.PNG": "/portfolio/static/media/online medicine.d41235f1f1a099e4e55c.PNG",
+    "static/media/To do list.PNG": "/portfolio/static/media/To do list.83a762e63dd5fb67a4d2.PNG",
+    "static/media/javascript.webp": "/portfolio/static/media/javascript.bb41b35e77975f0c88b0.webp",
+    "index.html": "/portfolio/index.html",
+    "main.a9ade628.css.map": "/portfolio/static/css/main.a9ade628.css.map",
+    "main.b2820475.js.map": "/portfolio/static/js/main.b2820475.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9ade628.css",
+    "static/js/main.b2820475.js"
+  ]
+}
