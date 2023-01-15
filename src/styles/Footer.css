@@ -1,0 +1,40 @@
+
+.footer {
+  width: 99.8%;
+  align-items: center;
+  display: flex;
+  flex-direction:column;
+  padding: 1% 0;
+  background-color: rgb(255, 255, 255);
+  height: 100px;
+  padding-top: 0;
+}
+
+.socialMedia svg {
+  font-size: 50px;
+  cursor: pointer;  
+}
+svg:hover{
+  scale: 1.2;
+}
+.socialMedia{
+  width: 30%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+@media only screen and (max-width: 600px) {
+  .footer svg {
+    font-size: 40px;
+    justify-content: space-around;
+  }
+
+  .socialMedia {
+    width: 80%;
+  }
+
+  .footer>h3{
+    font-size:medium;
+  }
+}
