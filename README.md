@@ -1,3 +1,6 @@
+This project is hosted in github pages.
+Link: https://hmdaslam97.github.io/portfolio/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
